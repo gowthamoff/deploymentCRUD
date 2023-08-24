@@ -1,2 +1,2 @@
-Click below to access Live demo
+Live demo
 https://gowthamcrud.netlify.app
