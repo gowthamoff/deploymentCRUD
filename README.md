@@ -1,2 +1,1 @@
-Live demo
-https://gowthamcrud.netlify.app
+[![Live Demo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gowthamcrud.netlify.app)
